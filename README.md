@@ -1,3 +1,2 @@
-# RESPONSIVENESS
-Zuri internship
-[Github page LINK](https://eunicetemi.github.io/RESPONSIVENESS/)
+# RESPONSIVENES
+[github page link](https://eunicetemi.github.io/RESPONSIVENESS/)
