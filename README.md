@@ -1,2 +1,2 @@
 # RESPONSIVENES
-[github page link](https://eunicetemi.github.io/RESPONSIVENESS/)
+[Github page link](https://eunicetemi.github.io/RESPONSIVENESS/)
